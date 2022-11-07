@@ -42,7 +42,7 @@ Platform as a service (PaaS) is a cloud computing model where a third-party prov
 <td align="left"><a href="https://www.okteto.com/" rel="nofollow">Okteto</a></td>
 <td align="left">❌</td>
 <td align="left">1GB RAM, 5 GB Disk</td>
-<td align="left">No data</td>
+<td align="left">Docker Compose</td>
 </tr>
 <tr>
 <td align="left"><a href="https://www.cyclic.sh/" rel="nofollow">Cyclic</a></td>
